@@ -329,13 +329,15 @@ ol{
             }
         }
     }
-     li:nth-child(8){
-         text-align: center;
-         font-size: 32/$rem*1rem;
-         display: flex;
-         justify-content: center;
-         padding:30/$rem*1rem 0 90/$rem*1rem 0;
-         box-sizing: border-box;
+     li:nth-child(7){
+        //  text-align: center;
+        //  font-size: 32/$rem*1rem;
+        //  display: flex;
+        //  justify-content: center;
+        //  padding:30/$rem*1rem 0 90/$rem*1rem 0;
+        //  box-sizing: border-box;
+        margin-bottom: 100/$rem*1rem;
+        border:none;
      }
 }
 .fixed{
