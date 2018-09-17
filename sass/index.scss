@@ -369,20 +369,11 @@ ol{
         margin-top:0;
     }
 }
-.fixed1{
-    // position: fixed;
-    // top:580/$rem*1rem;
-    // right:10/$rem*1rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 50/$rem*1rem;
-    width:100%;
-    margin-bottom: 50/$rem*1rem;
-    box-sizing: border-box;
-    img{
-        height:250/$rem*1rem;
-        width:250/$rem*1rem;
-       margin-left:20/$rem*1rem;
-    }
+.fixed2{
+    position: fixed;
+    top:580/$rem*1rem;
+    right:10/$rem*1rem;
+    height:250/$rem*1rem;
+    width:250/$rem*1rem;
+
 }
